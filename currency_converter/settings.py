@@ -127,7 +127,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-OPENEXCHANGERATES_APP_ID = 'get your ket at http://openexchangerates.org'
+OPENEXCHANGERATES_APP_ID = 'get your key at http://openexchangerates.org'
 
 # Use nose to run all tests
 TEST_RUNNER = 'django_nose.NoseTestSuiteRunner'
